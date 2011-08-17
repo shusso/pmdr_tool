@@ -1,3 +1,7 @@
 Yet another pomodoro-tool. Simple as they come.
 
 There is a feature list for v.0.2 ;)
+
+
+Compile the ui:
+pyuic4 -o pmdrtool_ui.py -x pmdrtool_ui.ui
